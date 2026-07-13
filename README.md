@@ -1,5 +1,5 @@
 # Piedictor
-Elite ball knowledge to bet responsible
+Elite ball knowledge to bet responsibly
 
 
 
