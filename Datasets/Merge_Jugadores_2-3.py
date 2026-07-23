@@ -4,11 +4,11 @@ import os
 # 1. Lista con los nombres de tus 5 CSVs ya juntados y listos
 # (Cambia estos nombres por los nombres reales de tus archivos)
 archivos_temporadas = [
-    "tmp-21-22.csv",
-    "tmp-22-23.csv",
-    "tmp-23-24.csv",
-    "tmp-24-25.csv",
-    "tmp-25-26.csv"
+    "tmp_segunda-21-22.csv",
+    "tmp_segunda-22-23.csv",
+    "tmp_segunda-23-24.csv",
+    "tmp_segunda-24-25.csv",
+    "tmp_segunda-25-26.csv"
 ]
 
 columna_clave = 'Player'
@@ -40,7 +40,7 @@ if lista_dataframes:
     df_historico_total = df_historico_total[df_historico_total[columna_clave] != columna_clave]
     
     # Guardar en el nuevo CSV maestro
-    nombre_salida = "Jugadores_Sucio.csv"
+    nombre_salida = "Jugadores_Segunda_Sucio.csv"
     df_historico_total.to_csv(nombre_salida, index=False)
     
     print("\n¡Proceso completado!")

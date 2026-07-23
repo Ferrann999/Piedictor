@@ -5,14 +5,14 @@ import pandas as pd
 print("Leyendo el archivo local laliga.html...")
 
 try:
-    with open("urls_jugadores_misc/25_26.html", "r", encoding="utf-8") as f:
+    with open("urls_jugadores_segunda/25-26_Segunda División Player Stats _ FBref.com.html", "r", encoding="utf-8") as f:
         html_local = f.read()
 
     # 2. Envolvemos el texto en StringIO para evitar el FutureWarning de Pandas
     html_string = StringIO(html_local)
 
     # 3. Pandas lee las tablas del archivo guardado
-    tablas = pd.read_html(html_string)
+    tablas = pd.read_html(html_string, flavor='html5lib')
 
     # La tabla de estadísticas de los jugadores suele ser la número 2 o 3
     df_jugadores = tablas[11]
@@ -22,7 +22,7 @@ try:
     print(df_jugadores.head())
 
     # 4. Lo guardamos como un CSV limpio para nuestro modelo de IA
-    df_jugadores.to_csv("jugadores_misc_laliga_25_26.csv", index=False)
+    df_jugadores.to_csv("jugadores_segunda_laliga_25_26.csv", index=False)
     print("\n¡Archivo guardado con éxito como 'jugadores_misc_laliga_25_26.csv'!")
 
 except FileNotFoundError:

@@ -5,9 +5,9 @@ import numpy as np
 # =====================================================================
 # CONFIGURACIÓN (Cambia estos nombres por los tuyos reales)
 # =====================================================================
-archivo_csv_grande = "Jugadores_Sucio.csv"
+archivo_csv_grande = "Jugadores_Segunda_Sucio.csv"
 archivo_txt_jugadores = "Jugadores_26-27.txt"  # Tu archivo .txt
-archivo_salida = "Jugadores_Limpio.csv"
+archivo_salida = "Jugadores_Segunda_Limpio.csv"
 
 # Nombre de la columna de jugadores en tu CSV (ej. 'Player' o 'Nombre')
 columna_clave = 'Player' 

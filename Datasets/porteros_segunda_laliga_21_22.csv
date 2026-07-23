@@ -1,0 +1,52 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 26_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Amir Abedzadeh,ir IRN,GK,Ponferradina,28,1993,35,35,3150,35.0,43,1.23,159,116,73.0,17,11,7,9,25.7,4,4,0,0,0.0,Matches
+2,Altube,es ESP,GK,CF Fuenlabrada,21,2000,24,24,2160,24.0,31,1.29,100,69,69.0,3,10,11,6,25.0,4,4,0,0,0.0,Matches
+3,Cristian Álvarez,ar ARG,GK,Zaragoza,35,1985,38,38,3420,38.0,40,1.05,142,102,71.8,11,19,8,11,28.9,3,1,2,0,66.7,Matches
+4,Jose Aurelio Suarez,es ESP,GK,Alcorcón,25,1995,1,1,90,1.0,0,0.00,4,4,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+5,Gaizka Ayesa,es ESP,GK,Real Sociedad B,20,2001,21,20,1858,20.6,36,1.74,96,60,62.5,2,3,15,1,5.0,0,0,0,0,,Matches
+6,Dani Barrio,es ESP,GK,Málaga,34,1987,14,14,1260,14.0,17,1.21,43,26,60.5,2,5,7,3,21.4,1,1,0,0,0.0,Matches
+7,José Javier Belman Calvo,es ESP,GK,CF Fuenlabrada,22,1998,5,5,449,5.0,12,2.41,25,13,52.0,1,0,4,1,20.0,1,0,1,0,100.0,Matches
+8,Ander Cantero,es ESP,GK,Eibar,26,1995,24,24,2160,24.0,26,1.08,77,53,66.2,13,6,5,9,37.5,3,3,0,0,0.0,Matches
+9,Juan Carlos,es ESP,GK,Girona,33,1988,38,38,3420,38.0,39,1.03,137,100,71.5,18,7,13,13,34.2,4,3,0,1,0.0,Matches
+10,Churripi,es ESP,GK,Burgos,27,1994,15,14,1291,14.3,12,0.84,65,52,81.5,6,3,5,8,57.1,0,0,0,0,,Matches
+11,Cristian,es ESP,GK,Alcorcón,23,1998,3,3,270,3.0,6,2.00,17,11,64.7,0,1,2,0,0.0,1,1,0,0,0.0,Matches
+12,Iván Cuéllar,es ESP,GK,Sporting Gijón,37,1984,10,10,900,10.0,8,0.80,40,32,80.0,2,5,3,2,20.0,0,0,0,0,,Matches
+13,Álex Domínguez,es ESP,GK,Ibiza,23,1998,10,10,900,10.0,14,1.40,49,35,71.4,5,2,3,2,20.0,4,3,1,0,25.0,Matches
+14,Joan Femenías,es ESP,GK,Oviedo,24,1996,42,42,3780,42.0,41,0.98,134,95,69.4,17,17,8,16,38.1,4,3,0,1,0.0,Matches
+15,Andrés Fernández,es ESP,GK,Huesca,34,1986,42,42,3780,42.0,44,1.05,168,124,73.8,13,15,14,17,40.5,4,1,1,2,50.0,Matches
+16,Raúl Fernández,es ESP,GK,Las Palmas,33,1988,28,28,2520,28.0,34,1.21,93,59,63.4,10,9,9,8,28.6,3,3,0,0,0.0,Matches
+17,Fernando,es ESP,GK,Almería,31,1990,41,41,3690,41.0,33,0.80,130,97,74.6,24,9,8,16,39.0,4,2,2,0,50.0,Matches
+18,Lucho García,co COL,GK,Ponferradina,23,1998,6,6,540,6.0,9,1.50,27,18,66.7,0,1,5,0,0.0,2,2,0,0,0.0,Matches
+19,Dani Hernández,ve VEN,GK,Tenerife,35,1985,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+20,Alfonso Herrero,es ESP,GK,Burgos,27,1994,28,28,2489,27.7,29,1.05,110,81,73.6,9,7,12,8,28.6,3,2,0,1,0.0,Matches
+21,Dani Jiménez,es ESP,GK,Alcorcón,31,1990,24,24,2160,24.0,47,1.96,130,83,63.8,2,5,17,2,8.3,5,4,0,1,0.0,Matches
+22,Dani Jiménez,es ESP,GK,Leganés,31,1990,13,12,1103,12.3,17,1.39,42,25,59.5,3,5,4,4,33.3,5,3,2,0,40.0,Matches
+23,Raúl Lizoain,es ESP,GK,Mirandés,30,1991,39,39,3510,39.0,59,1.51,173,114,65.9,13,7,19,7,17.9,8,8,0,0,0.0,Matches
+24,Giorgi Makaridze,ge GEO,GK,Almería,31,1990,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+25,Diego Mariño,es ESP,GK,Sporting Gijón,31,1990,32,32,2880,32.0,40,1.25,146,106,72.6,9,8,15,5,15.6,5,4,1,0,20.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Unai Marino,es ESP,GK,Amorebieta,21,1999,10,9,814,9.0,17,1.88,45,28,62.2,1,5,3,0,0.0,3,2,1,0,33.3,Matches
+27,Unai Marrero,es ESP,GK,Real Sociedad B,19,2001,2,1,173,1.9,1,0.52,5,4,80.0,1,0,0,1,100.0,0,0,0,0,,Matches
+28,Daniel Martín,es ESP,GK,Málaga,23,1998,28,28,2520,28.0,40,1.43,118,78,66.1,9,7,12,9,32.1,5,4,0,1,0.0,Matches
+29,Marc Martínez,es ESP,GK,Cartagena,31,1990,40,40,3600,40.0,55,1.37,173,127,68.2,17,5,18,11,27.5,10,9,1,0,10.0,Matches
+30,Jordi Masip,es ESP,GK,Valladolid,32,1989,23,23,2070,23.0,20,0.87,84,64,76.2,15,5,3,10,43.5,3,2,0,1,0.0,Matches
+31,Morro,es ESP,GK,CF Fuenlabrada,20,2000,13,13,1170,13.0,22,1.69,70,48,68.6,2,5,6,4,30.8,2,2,0,0,0.0,Matches
+32,Adrián Ortolá,es ESP,GK,Girona,27,1993,4,4,360,4.0,3,0.75,13,10,76.9,2,1,1,1,25.0,0,0,0,0,,Matches
+33,Germán Parreño,es ESP,GK,Ibiza,28,1993,32,32,2880,32.0,45,1.41,129,84,65.1,7,14,11,8,25.0,9,8,1,0,11.1,Matches
+34,Jérôme Prior,fr FRA,GK,Cartagena,25,1995,2,2,180,2.0,2,1.00,10,8,80.0,1,1,0,0,0.0,0,0,0,0,,Matches
+35,Sergi Puig,es ESP,GK,Ponferradina,22,1998,1,1,90,1.0,3,3.00,6,3,50.0,0,0,1,0,0.0,1,0,1,0,100.0,Matches
+36,Ramón,es ESP,GK,Mirandés,21,1999,3,3,270,3.0,3,1.00,17,14,82.4,2,0,1,1,33.3,0,0,0,0,,Matches
+37,Álvaro Ratón,es ESP,GK,Zaragoza,28,1993,4,4,360,4.0,6,1.50,14,8,57.1,1,1,2,1,25.0,0,0,0,0,,Matches
+38,Asier Riesgo,es ESP,GK,Leganés,37,1983,20,20,1777,19.7,17,0.86,58,41,70.7,8,7,5,8,40.0,1,1,0,0,0.0,Matches
+39,Roberto,es ESP,GK,Valladolid,35,1986,19,19,1710,19.0,23,1.21,69,46,66.7,9,4,6,7,36.8,5,4,1,0,20.0,Matches
+40,Jesús Ruiz,es ESP,GK,Alcorcón,24,1997,14,14,1260,14.0,18,1.29,50,32,64.0,4,4,6,4,28.6,4,1,2,1,66.7,Matches
+41,Mikel Saizar,es ESP,GK,Amorebieta,38,1983,10,9,867,9.6,13,1.35,24,11,45.8,3,3,3,3,33.3,2,1,1,0,50.0,Matches
+42,Roberto Santamaría,es ESP,GK,Amorebieta,36,1985,24,24,2099,23.3,33,1.41,87,54,62.1,5,8,11,3,12.5,4,3,1,0,25.0,Matches
+43,Juan Soriano,es ESP,GK,Tenerife,23,1997,41,41,3690,41.0,35,0.85,156,126,77.6,20,9,12,16,39.0,6,6,0,0,0.0,Matches
+44,Álvaro Vallés,es ESP,GK,Las Palmas,24,1997,14,14,1260,14.0,13,0.93,48,35,72.9,9,4,1,6,42.9,1,0,1,0,100.0,Matches
+45,Fran Vieites,es ESP,GK,Lugo,22,1999,12,12,1080,12.0,15,1.25,49,34,69.4,3,5,4,2,16.7,3,3,0,0,0.0,Matches
+46,Iván Villar,es ESP,GK,Leganés,24,1997,10,10,900,10.0,17,1.70,40,23,57.5,2,3,5,1,10.0,1,1,0,0,0.0,Matches
+47,Óscar Whalley,es ESP,GK,Lugo,27,1994,30,30,2700,30.0,37,1.23,128,91,71.1,7,15,8,7,23.3,4,3,1,0,25.0,Matches
+48,Yoel,es ESP,GK,Eibar,32,1988,18,18,1620,18.0,19,1.06,68,49,72.1,10,5,3,6,33.3,1,1,0,0,0.0,Matches
+49,Andoni Zubiaurre,es ESP,GK,Real Sociedad B,24,1996,21,21,1743,19.4,24,1.24,90,66,73.3,7,7,7,6,28.6,6,3,3,0,50.0,Matches
