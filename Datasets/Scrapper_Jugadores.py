@@ -23,7 +23,7 @@ try:
 
     # 4. Lo guardamos como un CSV limpio para nuestro modelo de IA
     df_jugadores.to_csv("jugadores_misc_laliga_25_26.csv", index=False)
-    print("\n¡Archivo guardado con éxito como 'jugadores_misc_laliga_25_26  .csv'!")
+    print("\n¡Archivo guardado con éxito como 'jugadores_misc_laliga_25_26.csv'!")
 
 except FileNotFoundError:
     print(
